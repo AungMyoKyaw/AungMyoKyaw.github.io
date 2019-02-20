@@ -7,6 +7,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+repository: AungMyoKyaw/aungmyokyaw.github.io
+
 defaults:
   -
     scope:
