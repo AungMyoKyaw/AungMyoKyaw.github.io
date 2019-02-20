@@ -9,10 +9,11 @@ permalink: /:year/:month/:day/:title/
 
 repository: AungMyoKyaw/aungmyokyaw.github.io
 
+url: ''
+
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
+  - scope:
+      path: '' # an empty string here means all files in the project
+      type: 'posts'
     values:
-      layout: "post"
+      layout: 'post'
